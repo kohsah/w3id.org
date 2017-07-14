@@ -1,2 +1,2 @@
 
-Contacts: ashok.hariharan@fao.org, flavio.zeni@fao.org, essepuntato@gmail.com
+Contacts: ashok.hariharan[at]gmail.com, flavio.zeni@fao.org, essepuntato@gmail.com
